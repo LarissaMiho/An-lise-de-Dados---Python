@@ -3,7 +3,7 @@ video-game-platforms-usage-analysis
 
 Análise de dados de um csv de jogos
 
-#### Resumo
+# Resumo
 
 Análise de dados sobre quais plataformas foram mais usadas desde 1980 até os dias de hoje.
 Houve pesquisa para ver como funcionava algumas funções e importações.
